@@ -3,6 +3,12 @@ typography_spectrum: 0.02675084
 color:
   saturation: 0.6502563
   lightness: 0.6952558
-  brandStrength: 0.2480454
+  brandStrength: 0.3229342
+  brandColors:
+    - '#1E211E'
+    - '#ACB3BE'
+    - '#6F7680'
+    - '#FFFFFF'
+    - '#E8E2CE'
   rhythmicContrast: 0.2601009
 name: Kauai2015
