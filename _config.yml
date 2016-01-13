@@ -1,14 +1,26 @@
-layout_spectrum: 0.501147
-typography_spectrum: 0.02675084
 color:
   saturation: 0.6502563
-  lightness: 0.6952558
   brandStrength: 0.3229342
+  rhythmicContrast: 0.2601009
   brandColors:
     - '#1E211E'
     - '#ACB3BE'
     - '#6F7680'
     - '#FFFFFF'
     - '#E8E2CE'
-  rhythmicContrast: 0.2601009
+  lightness: 0.6952558
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.501147
+typography_spectrum: 0.02675084
 name: Kauai2015
